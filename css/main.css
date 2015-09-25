@@ -141,25 +141,6 @@ dt{
   width:100%;
 }
 
-.antl-text{
-  width:100%;
-  text-align:center;
-  margin: 0 auto;
-  font-size:25px;
-  /*position:inherit;*/
-  position: relative;
-  bottom: 5rem;
-}
-
-.antl-text-2{
-  width:100%;
-  text-align:center;
-  margin:auto;
-  position: relative;
-  bottom: 5rem;
-
-}
-
 #week h3{
   padding-top: 1rem;
 }
@@ -191,6 +172,25 @@ dt{
     margin:auto;
     position:absolute;
     bottom:1.5em;
+  }
+
+  .antl-text{
+    width:100%;
+    text-align:center;
+    margin: 0 auto;
+    font-size:25px;
+    /*position:inherit;*/
+    position: relative;
+    bottom: 5rem;
+  }
+
+  .antl-text-2{
+    width:100%;
+    text-align:center;
+    margin:auto;
+    position: relative;
+    bottom: 5rem;
+
   }
 
 }
